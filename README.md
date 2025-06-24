@@ -50,16 +50,6 @@ The Enhanced Community Debate Simulator is an AI-powered web application that si
 5. **Open your browser:**
    - Go to `http://localhost:8501` to use the simulator.
 
-## File Structure
-
-- `app.py` — Main Streamlit app with enhanced debate simulation
-- `main_roles.py`, `main_langchain.py`, `main.py` — Additional/legacy debate modules
-- `.streamlit/secrets.toml` — Store your OpenAI API key here
-- `ui_screenshot.png` — UI screenshot for README (add your own if needed)
-
-## Example UI
-
-![UI Screenshot](./ui_screenshot.png)
 
 ## License
 
