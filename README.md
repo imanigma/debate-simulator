@@ -31,7 +31,7 @@ The Enhanced Community Debate Simulator is an AI-powered web application that si
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/imanigma/convince-me.git
    cd convince-me
    ```
 2. **Install dependencies:**
