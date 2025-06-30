@@ -32,7 +32,7 @@ The Enhanced Community Debate Simulator is an AI-powered web application that si
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/imanigma/debate-simulator
-   cd convince-me
+   cd debate-simulator
    ```
 2. **Install dependencies:**
    ```bash
